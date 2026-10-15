@@ -1,20 +1,107 @@
-// Project_1.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
+/*
+
+#include <stdio.h>  //or #include <cstdio>
+
+int main() {
+
+	//...
+
+	int a, b, res;
+	float k, m;
+
+	//...
+
+	printf("Hello world!");
+	printf("Variable a value is %i", a);
+	printf("Variable k value is %f", k);
+	printf("Variable m value is %.3f", m);
+	printf("%i + %i = %i", a, b, res);
+
+
+	//...
+
+	return 0;
+}
+
+----------------------------------------------------------------------------------------------------
+
+#include <iostream>
+#include <iomanip>
+
+using namespace std;
+
+int main() {
+
+	//...
+
+	int a = 10, b = 20, res = 0;
+	float k = 3.14f, m = 5.25f;
+
+	//...
+
+	res = a + b;
+
+	//...
+
+	cout << "Hello World!";
+	cout << "Variable a value is" << a;
+	cout << "Variable k value is" << k;
+	cout << "Variable m value is" << fixed << setprecision(3) << m;
+	cout << a << " + " << b << " = " << res;
+
+	//...
+
+	return 0;
+
+}
+
+----------------------------------------------------------------------------------------------------
+
+#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h> // or #include <cstdio>
+
+int main() {
+
+	//...
+
+	int a, b, c;
+	float k;
+
+	//...
+
+	scanf("%i", &a);
+	scanf("%f", &k);
+	scanf("%i%i", &b, &c);
+
+	//...
+
+	return 0;
+
+}
+
+----------------------------------------------------------------------------------------------------
 
 #include <iostream>
 
-int main()
-{
-    std::cout << "Hello World!\n";
+using namespace std;
+
+int main() {
+
+	//...
+
+	int a, b, c;
+	float k;
+
+	//...
+
+	cin >> a;
+	cin >> k;
+	cin >> b >> c;
+
+	//...
+
+	return 0;
+
 }
 
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file
+*/
