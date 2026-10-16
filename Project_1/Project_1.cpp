@@ -1,5 +1,3 @@
-
-
 #include <stdio.h>  //or #include <cstdio>
 
 int main() {
