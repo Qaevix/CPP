@@ -29,7 +29,7 @@ Formulas of Variant 16;
  ## 3. Algorithm
 
  Input data: x (real number). Output data: z1, z2.
-
+```text
 - **Start.**
 - **Read the value of x.**
 - **Calculate root = √(x² − 9).**
@@ -37,7 +37,7 @@ Formulas of Variant 16;
 - **Calculate z2 = √((x + 3)/(x − 3)).**
 - **Print z1 and z2.**
 - **End.**
-
+```
 ## 4. Source Code
 
 The program is written in C++ (Visual Studio console application). The function sqrt the 
