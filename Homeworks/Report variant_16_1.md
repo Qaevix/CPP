@@ -19,5 +19,5 @@ So taskNr = 16 % 20 = 16
 Formulas of Variant 16;
 
 <p align="center">
-  <img src="/CPP/Homeworks/Assests/Variant16.png" alt="Qaevix" />
+  <img src="Homeworks/Assests/Variant16.png" alt="Qaevix" />
 </p>
