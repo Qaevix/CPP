@@ -86,3 +86,6 @@ Test results are shown in Table 1.
   <img src="Assets/photo2.png" alt="Qaevix" />
 </p>
 
+## 6. Conclusion 
+
+A console application in C++ was created that calculates z1 and z2 by the formulas of Variant15. For all tested values x > 3. For x = -5 the results difffer in sign (z1= - z2), for x = 0 the result is nan (square root of a negative number) and for x = 3 the result is inf (division by zero).
