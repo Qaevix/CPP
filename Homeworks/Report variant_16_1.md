@@ -82,4 +82,7 @@ Test results are shown in Table 1.
 
 *Table 1. Test cases*
 
+<p align="center">
+  <img src="Assets/photo2.png" alt="Qaevix" />
+</p>
 
