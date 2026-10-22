@@ -19,5 +19,5 @@ So taskNr = 16 % 20 = 16
 Formulas of Variant 16;
 
 <p align="center">
-  <img src="/Assests/Ekran görüntüsü 2026-10-23 002235.png" alt="Qaevix" />
+  <img src="/Assests/Variant16.png" alt="Qaevix" />
 </p>
