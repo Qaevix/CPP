@@ -30,12 +30,12 @@ Formulas of Variant 16;
 
  Input data: x (real number). Output data: z1, z2.
 
-1- **Start.**
-2- **Read the value of x.**
-3- **Calculate root = √(x² − 9).**
-4. **Calculate z1 = (x² + 2x − 3 + (x + 1)·root) / (x² − 2x − 3 + (x − 1)·root).**
-5. **Calculate z2 = √((x + 3)/(x − 3)).**
-6. **Print z1 and z2.**
-7. **End.**
+- **Start.**
+- **Read the value of x.**
+- **Calculate root = √(x² − 9).**
+- **Calculate z1 = (x² + 2x − 3 + (x + 1)·root) / (x² − 2x − 3 + (x − 1)·root).**
+- **Calculate z2 = √((x + 3)/(x − 3)).**
+- **Print z1 and z2.**
+- **End.**
 
 
