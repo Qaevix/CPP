@@ -74,4 +74,12 @@ double x, z1, z2, root;
 return 0;
 
 }
+```
+## 5. Tests
+
+The program was tested with positive, negative and zero values of x, and with the boundary value x = 3. 
+Test results are shown in Table 1.
+
+*Table 1. Test cases*
+
 
