@@ -45,7 +45,7 @@ int main() {
 
 	cout << "Enter circle radius: ";
 	cin >> circleRadius;
-
+	
 	cout << "Enter square side lenght: ";
 	cin >> squareSide;
 
@@ -70,3 +70,34 @@ int main() {
 
 // Example 2_1 (using scanf/printf for input/output):
 
+#include <iostream>
+
+using namespace std;
+
+int main() {
+
+	int circleRadius, squareSide, squareArea;
+	float circleArea;
+
+	cout << "Enter circle radius: ";
+	cin >> circleRadius; 
+
+	cout << "Enter square side lenght";
+	cin >> "squareSide";
+
+	circleArea = 3.14 * circleRadius * circleRadius;
+	squareArea = squareSide * squareSide;
+
+	if (circleArea > squareArea)
+
+		cout << "Area of circle is greater than\n\n";
+
+	else
+
+		cout << "Area of square is greater than\n\n";
+
+	system("pause");
+
+	return 0;
+
+}
